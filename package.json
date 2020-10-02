@@ -9,9 +9,9 @@
      "icon": "icon.png",
      "repository": {
           "type": "git",
-          "url": ""
+          "url": "https://github.com/AkmarNafi/comment-headers"
      },
-     "homepage": "",
+     "homepage": "https://github.com/AkmarNafi/comment-headers/blob/master/README.md",
      "keywords": [
           "header",
           "sections",
@@ -124,14 +124,7 @@
                     "language": "java",
                     "path": "./snippets/js-style-double.code-snippets"
                },
-               {
-                    "language": "php",
-                    "path": "./snippets/js-style-single.code-snippets"
-               },
-               {
-                    "language": "php",
-                    "path": "./snippets/js-style-double.code-snippets"
-               },
+ 
                {
                     "language": "dart",
                     "path": "./snippets/js-style-single.code-snippets"
