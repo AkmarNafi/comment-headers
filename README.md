@@ -1,10 +1,12 @@
 
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="icon.png" alt="icon" width="140"></a>
-  <br>
+  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="icon.png" alt="icon" width="200"></a>
+  </br>
+  </br>
   COMMENT HEADERS
-  <br>
+  </br>
+  </br>
 </h1>
 
 <h4 align="center">Comment header snippets for VS-Code</h4>
