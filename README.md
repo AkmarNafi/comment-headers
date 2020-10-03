@@ -28,8 +28,6 @@
 </br>
 <img  src="images/sceenshot.png" alt="icon" width="900" >
 
-
-
 </div>
 <br>
 
@@ -40,6 +38,7 @@
 <br>
 
 ## How to use
+
 <br>
 <div align="center">&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;</div>
 <br>
@@ -54,11 +53,11 @@
 | Info     | `info-block` ,`*block`       | `//info-block-md`, `//*block-md`..      |
 | Question | `question-block`,`?block`    | `//question-block-md` , `//?block-md`.. |
 | Warning  | `warning-block`,`!block`     | `//warning-block-md`, `//!block-md`..   |
-| Function | `function-block` , `()block` | `//function-block-md`, `//()block-md`.. |
 | Todo     | `todo-block`                 | `//todo-block-md`..                     |
+| Function | `function-block` , `()block` | `//function-block-md`, `//()block-md`.. |
 | About    | `about-block`                | `//about-block-md`..                    |
 
-<img src="images/sceenshot.png" alt="icon" width="900" >
+<img src="images/blocks.png" alt="icon" width="600" >
 
 <br>
 
@@ -72,6 +71,8 @@
 | Warning  | `warning-header`, `!header`  | `//warning-header-md`, `//!header-md`..   |
 | Todo     | `todo-header`                | `//todo-header-md`..                      |
 
+<img src="images/headers.png" alt="icon" width="600" >
+
 <br>
 
 ### 3. Footer
@@ -80,6 +81,7 @@
 | ------- | ---------- | ------------------------- |
 | Default | `end`      | `//end-sm`, `//end-md` .. |
 
+<img src="images/footers.png" alt="icon" width="900" >
 <br>
 
 ### 4. Divider
