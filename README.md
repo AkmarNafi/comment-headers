@@ -12,14 +12,15 @@
 </h1>
 
 <h3 align="center">Comment header snippets for VS-Code</h3>
-<h4 align="center"><a href="#related">Supports 30+ languages</a></h4></h4>
+<h4 align="center"><a href="#supported-languages">Supports 30+ languages</a></h4>
 
+<h4 align="center">Works with <a  href="vscode:extension/aaron-bond.better-comments">Better comments</a></h4>
+<br>
 <p align="center">
-  <a href="#how-to-install">How To Install</a> •
   <a href="#how-to-use">How To Use</a> •
-  <a href="#related">Supported languages</a> 
-  <a href="#how-to-use">How To Use</a> •
-  <a href="#related">Supported languages</a> 
+  <a href="#types">Types</a> •
+  <a href="#line-style">Line styles</a> •
+  <a href="#supported-languages">Supported languages</a> 
 </p>
 
 <br>
@@ -29,22 +30,22 @@
 <img  src="images/banner.png" alt="screenshot" width="900" >
 
 </div>
-<br>
 
-## How to Install
-
-<br>
 <div align="center">&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;</div>
 <br>
 
 ## How to use
+
+Type a trigger keyword like `//header-lg` and press enter.<br>
+Find the different triggers in the types section.
+
 <img src="images/howto.gif" alt="multiline" width="600" >
 <br>
 <br>
 <div align="center">&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;</div>
 <br>
 
-## Comment types
+## Types
 
 ### 1. Block
 
