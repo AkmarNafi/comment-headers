@@ -14,10 +14,12 @@
 <h3 align="center">Comment header snippets for VS-Code</h3>
 <h4 align="center"><a href="#related">Supports 30+ languages</a></h4></h4>
 
+
+  [Installing](#installing) 
 <p align="center">
   <a href="#how-to-use">How To Install</a> •
   <a href="#comment-type">How To Use</a> •
-  <a href="#Comment-Type">Triggers</a> •
+
   <a href="#related">Supported languages</a> 
 </p>
 
@@ -29,13 +31,13 @@
 <br>
 
 
-<h2><img src="images/flag.png" width="20"> How to Use</h2>
+<h2><img src="images/flag.png" width="20">Installing</h2>
 
 <br>
 <div align="center">__________________________________________________________________________________________________________________________</div>
 <br>
 
-## :triangular_flag_on_post: Comment Type
+## :triangular_flag_on_post: Installing
 
 ### 1. Block
 
