@@ -132,7 +132,7 @@
 <img src="images/double-line.png" alt="icon" width="600" >
 
 <br>
-<br>
+<div align="center">__________________________________________________________</div>
 <br>
 
 ## :triangular_flag_on_post: Sizes
@@ -148,7 +148,7 @@
 Note: Inline(7) and Multiline (8) commments do not have size option.
 
 <br>
-<br>
+<div align="center">~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</div>
 <br>
 
 ## :triangular_flag_on_post: Supported Languages
@@ -201,5 +201,7 @@ Note: Inline(7) and Multiline (8) commments do not have size option.
 </details>
 <br>
 <br>
+<div align="center">~</div>
+
 <br>
 <div align="center">Happy Coding <img src="images/trollface.png" height="20"></div>
