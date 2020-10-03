@@ -26,7 +26,7 @@
 <div align="center">
 <b>Write beautifully structured code &#127881;</b>
 </br>
-<img  src="images/sceenshot.png" alt="icon" width="900" >
+<img  src="images/sceenshot.png" alt="screenshot" width="900" >
 
 </div>
 <br>
@@ -57,7 +57,7 @@
 | Function | `function-block` , `()block` | `//function-block-md`, `//()block-md`.. |
 | About    | `about-block`                | `//about-block-md`..                    |
 
-<img src="images/blocks.png" alt="icon" width="600" >
+<img src="images/blocks.png" alt="block" width="600" >
 
 <br>
 
@@ -71,7 +71,7 @@
 | Warning  | `warning-header`, `!header`  | `//warning-header-md`, `//!header-md`..   |
 | Todo     | `todo-header`                | `//todo-header-md`..                      |
 
-<img src="images/headers.png" alt="icon" width="600" >
+<img src="images/headers.png" alt="header" width="600" >
 
 <br>
 
@@ -81,7 +81,7 @@
 | ------- | ---------- | ------------------------- |
 | Default | `end`      | `//end-sm`, `//end-md` .. |
 
-<img src="images/footers.png" alt="icon" width="900" >
+<img src="images/footers.png" alt="footer" width="900" >
 <br>
 
 ### 4. Divider
@@ -90,6 +90,7 @@
 | ------- | ---------- | --------------------------------- |
 | Default | `divider`  | `//divider-sm`, `//divider-md` .. |
 
+<img src="images/dividers.png" alt="dividers" width="900" >
 <br>
 
 ### 5. Divider plain
@@ -98,6 +99,7 @@
 | ------- | --------------- | --------------------------------------------- |
 | Default | `divider-plain` | `//divider-plain-sm`, `//divider-plain-md` .. |
 
+<img src="images/dividers-plain.png" alt="dividers plain" width="900" >
 <br>
 
 ### 6. Inline
@@ -110,6 +112,7 @@
 | Warning  | `warning`, `!`  | `//warning`, `//!`   |
 | Todo     | `todo`          | `//todo`             |
 
+<img src="images/inline.png" alt="inline" width="600" >
 <br>
 
 ### 7. Multiline
@@ -118,6 +121,7 @@
 | ------- | ----------- | ------------- |
 | Default | `multiline` | `//multiline` |
 
+<img src="images/multiline.png" alt="multiline" width="600" >
 <br>
 <div align="center">&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;</div>
 <br>
@@ -130,10 +134,10 @@
 | Double lined | `//`      | `//header-sm` |
 
 <h4>Single lined</h4>
-<img src="images/single-line.png" alt="icon" width="600" >
+<img src="images/single-line.png" alt="single line" width="600" >
 
 <h4>Double lined</h4>
-<img src="images/double-line.png" alt="icon" width="600" >
+<img src="images/double-line.png" alt="double line" width="600" >
 
 <br>
 <div align="center">&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;</div>
