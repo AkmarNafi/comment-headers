@@ -2,11 +2,12 @@
      "name": "comment-headers",
      "displayName": "Comment headers",
      "description": "",
+     "publisher": "akmarnafi",
      "version": "0.0.1",
      "engines": {
           "vscode": "^1.49.0"
      },
-     "icon": "icon.png",
+     "icon": "images/icon.png",
      "repository": {
           "type": "git",
           "url": "https://github.com/AkmarNafi/comment-headers"
@@ -124,7 +125,6 @@
                     "language": "java",
                     "path": "./snippets/js-style-double.code-snippets"
                },
- 
                {
                     "language": "dart",
                     "path": "./snippets/js-style-single.code-snippets"

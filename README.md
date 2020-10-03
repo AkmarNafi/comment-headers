@@ -6,9 +6,11 @@
   </br>
   COMMENT HEADERS
   
-[![Version](https://vsmarketplacebadge.apphb.com/version/akmarnafi.midnight-code.svg)](https://marketplace.visualstudio.com/items?itemName=akmarnafi.midnight-code)
-[![Installs](https://vsmarketplacebadge.apphb.com/installs/akmarnafi.midnight-code.svg)](https://marketplace.visualstudio.com/items?itemName=akmarnafi.midnight-code)
-[![Ratings](https://vsmarketplacebadge.apphb.com/rating/akmarnafi.midnight-code.svg)](https://marketplace.visualstudio.com/items?itemName=akmarnafi.midnight-code)
+
+
+[![Version](https://vsmarketplacebadge.apphb.com/version/akmarnafi.comment-headers.svg)](https://marketplace.visualstudio.com/items?itemName=akmarnafi.comment-headers)
+[![Installs](https://vsmarketplacebadge.apphb.com/installs/akmarnafi.comment-headers.svg)](https://marketplace.visualstudio.com/items?itemName=akmarnafi.comment-headers)
+[![Ratings](https://vsmarketplacebadge.apphb.com/rating/akmarnafi.comment-headers.svg)](https://marketplace.visualstudio.com/items?itemName=akmarnafi.comment-headers)
 </h1>
 
 <h3 align="center">Comment header snippets for VS-Code</h3>
