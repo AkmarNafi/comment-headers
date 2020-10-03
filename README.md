@@ -11,7 +11,7 @@
 [![Ratings](https://vsmarketplacebadge.apphb.com/rating/akmarnafi.midnight-code.svg)](https://marketplace.visualstudio.com/items?itemName=akmarnafi.midnight-code)
 </h1>
 
-<h2 align="center">Comment header snippets for VS-Code</h2>
+<h3 align="center">Comment header snippets for VS-Code</h3>
 <h4 align="center"><a href="#related">Supports 30+ languages</a></h4></h4>
 
 <p align="center">
@@ -37,7 +37,7 @@
 
 ### 1. Block
 
-| Type     | Idetifier                       | example                                     |
+| Type     | Identifier                       | example                                     |
 | -------- | ------------------------------- | ------------------------------------------- |
 | Default  | `block`                         | `//block-md`..                              |
 | Info     | `info-block` ,`*block`     | `//info-block-md`, `//*block-md`..      |
@@ -57,9 +57,9 @@
 | Type     | Idetifier                        | example                                       |
 | -------- | -------------------------------- | --------------------------------------------- |
 | Default  | `header`                         | `//header-md`..                               |
-| Info     | `info-header` ,<br> `*header`    | `//info-header-md`, <br>`//*header-md`..      |
-| Question | `question-header`,<br> `?header` | `//question-header-md` ,<br> `//?header-md`.. |
-| Warning  | `warning-header`,<br> `!header`  | `//warning-header-md`,<br> `//!header-md`..   |
+| Info     | `info-header` , `*header`    | `//info-header-md`, `//*header-md`..      |
+| Question | `question-header`, `?header` | `//question-header-md` , `//?header-md`.. |
+| Warning  | `warning-header`, `!header`  | `//warning-header-md`, `//!header-md`..   |
 | Todo     | `todo-header`                    | `//todo-header-md`..                          |
 
 <br>
@@ -69,7 +69,7 @@
 
 | Type    | Idetifier | example                       |
 | ------- | --------- | ----------------------------- |
-| Default | `end`     | `//end-sm`,<br> `//end-md` .. |
+| Default | `end`     | `//end-sm`, `//end-md` .. |
 
 
 
@@ -80,7 +80,7 @@
 
 | Type    | Idetifier | example                               |
 | ------- | --------- | ------------------------------------- |
-| Default | `divider` | `//divider-sm`,<br> `//divider-md` .. |
+| Default | `divider` | `//divider-sm`, `//divider-md` .. |
 
 
 <br>
@@ -90,7 +90,7 @@
 
 | Type    | Idetifier       | example                                           |
 | ------- | --------------- | ------------------------------------------------- |
-| Default | `divider-plain` | `//divider-plain-sm`,<br> `//divider-plain-md` .. |
+| Default | `divider-plain` | `//divider-plain-sm`, `//divider-plain-md` .. |
 
 
 
