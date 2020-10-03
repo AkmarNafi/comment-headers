@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="icon.png" alt="icon" width="200"></a>
+  <a href=""><img src="icon.png" alt="icon" width="200"></a>
   
   </br>
   </br>
@@ -92,7 +92,7 @@
 <br>
 <br>
 
-### 6. Single line
+### 6. Inline
 
 | Type     | Idetifier       | example              |
 | -------- | --------------- | -------------------- |
@@ -142,7 +142,7 @@
 | Extra Large       | `-xl `     | `//header-xl`  |
 | Extra Extra Large | `-xxl `    | `//header-xxl` |
 
-Note: single lined<a>(7)</a> and multiline <a>(8)</a> commments do not have size option
+Note: Inline<a href="Inline" >(7)</a> and Multiline <a href="inline">(8)</a> commments do not have size option.
 
 <br>
 <p align="center">
