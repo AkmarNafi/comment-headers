@@ -56,9 +56,9 @@
 | Todo     | `todo-block`                 | `//todo-block-md`..                     |
 | Function | `function-block` , `()block` | `//function-block-md`, `//()block-md`.. |
 | About    | `about-block`                | `//about-block-md`..                    |
-<div align="center">
+
 <img src="images/blocks.png" alt="icon" width="600" >
-</div>
+
 <br>
 
 ### 2. Header
@@ -70,9 +70,9 @@
 | Question | `question-header`, `?header` | `//question-header-md` , `//?header-md`.. |
 | Warning  | `warning-header`, `!header`  | `//warning-header-md`, `//!header-md`..   |
 | Todo     | `todo-header`                | `//todo-header-md`..                      |
-<div align="center">
+
 <img src="images/headers.png" alt="icon" width="600" >
-</div>
+
 <br>
 
 ### 3. Footer
@@ -81,9 +81,7 @@
 | ------- | ---------- | ------------------------- |
 | Default | `end`      | `//end-sm`, `//end-md` .. |
 
-<div align="center">
 <img src="images/footers.png" alt="icon" width="900" >
-</div>
 <br>
 
 ### 4. Divider
@@ -132,13 +130,11 @@
 | Double lined | `//`      | `//header-sm` |
 
 <h4>Single lined</h4>
-<div align="center">
 <img src="images/single-line.png" alt="icon" width="600" >
-</div>
+
 <h4>Double lined</h4>
-<div align="center">
 <img src="images/double-line.png" alt="icon" width="600" >
-</div>
+
 <br>
 <div align="center">&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;</div>
 <br>
