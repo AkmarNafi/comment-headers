@@ -28,7 +28,7 @@
 <div align="center">
 <b>Write beautifully structured code &#127881;</b>
 </br>
-<img  src="images/banner.png" alt="screenshot" width="800" >
+<img  src="images/banner.png" alt="screenshot" width="850" >
 
 </div>
 
@@ -75,7 +75,8 @@ Find the different triggers in the types section.
 | Warning  | `warning-header`, `!header`  | `//warning-header-md`, `//!header-md`..   |
 | Todo     | `todo-header`                | `//todo-header-md`..                      |
 
-<img src="images/headers.png" alt="header" width="600" >
+<br>
+<img src="images/headers.png" alt="header" width="700" >
 
 <br>
 
