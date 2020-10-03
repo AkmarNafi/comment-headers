@@ -10,7 +10,7 @@
      "icon": "images/icon.png",
      "repository": {
           "type": "git",
-          "url": "https://github.com/AkmarNafi/comment-headers"
+          "url": "https://github.com/AkmarNafi/comment-headers.git"
      },
      "homepage": "https://github.com/AkmarNafi/comment-headers/blob/master/README.md",
      "keywords": [
