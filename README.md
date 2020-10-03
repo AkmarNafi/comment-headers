@@ -16,18 +16,20 @@
 
 <p align="center">
   <a href="#how-to-use">How To Install</a> •
-  <a href="#download">How To Use</a> •
-  <a href="#credits">Triggers</a> •
+  <a href="#comment-type">How To Use</a> •
+  <a href="#Comment-Type">Triggers</a> •
   <a href="#related">Supported languages</a> 
 </p>
 
-## :triangular_flag_on_post: How to Install
+<h2><img src="images/flag.png" width="20"> How to Install</h2>
+
 
 <br>
 <div align="center">__________________________________________________________________________________________________________________________</div>
 <br>
 
-## :triangular_flag_on_post: How to Use
+
+<h2><img src="images/flag.png" width="20"> How to Use</h2>
 
 <br>
 <div align="center">__________________________________________________________________________________________________________________________</div>
