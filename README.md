@@ -23,7 +23,14 @@
 </p>
 
 <br>
+<div align="center">
+<b>Write beautifully structured code &#127881;</b>
+</br>
+<img  src="images/sceenshot.png" alt="icon" width="900" >
 
+
+
+</div>
 <br>
 
 ## How to Install
