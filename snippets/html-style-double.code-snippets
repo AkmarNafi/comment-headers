@@ -109,25 +109,25 @@
      },
      "question": {
           "prefix": "//?,//question",
-          "body": "<!--? ${1:QUESTION} -->",
+          "body": "<!--? ${1:QUESTION} --->",
           "description": "COMMENT QUESTION",
           "scope": ""
      },
      "warning": {
           "prefix": "//!,//warning",
-          "body": "<!--! ${1:WARNING} -->",
+          "body": "<!--! ${1:WARNING} --->",
           "description": "COMMENT WARNING",
           "scope": ""
      },
      "info": {
           "prefix": "//*,//info",
-          "body": "<!--* ${1:INFO} -->",
+          "body": "<!--* ${1:INFO} --->",
           "description": "COMMENT INFO",
           "scope": ""
      },
    "comment": {
           "prefix": "//comment",
-          "body": "<!-- ${1:COMMENT} -->",
+          "body": "<!-- ${1:COMMENT} --->",
        "description": "SINGLE LINE COMMENT",
           "scope": ""
      },

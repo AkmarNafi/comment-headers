@@ -37,15 +37,15 @@
 
 ### 1. Block
 
-| Type     | Identifier                       | example                                     |
-| -------- | ------------------------------- | ------------------------------------------- |
-| Default  | `block`                         | `//block-md`..                              |
-| Info     | `info-block` ,`*block`     | `//info-block-md`, `//*block-md`..      |
-| Question | `question-block`,`?block`  | `//question-block-md` , `//?block-md`.. |
-| Warning  | `warning-block`,`!block`   | `//warning-block-md`, `//!block-md`..   |
-| Function | `function-block` , `()block` | `//function-block-md`, `//()block-md`..                        |
-| Todo     | `todo-block`                    | `//todo-block-md`..                         |
-| About    | `about-block`                   | `//about-block-md`..                         |
+| Type     | Identifier                   | Sizes                         | example                                 |
+| -------- | ---------------------------- | ----------------------------- | --------------------------------------- |
+| Default  | `block`                      | `sm`, `md`, `lg`, `xl`, `xxl` | `//block-md`..                          |
+| Info     | `info-block` ,`*block`       | `sm`, `md`, `lg`, `xl`, `xxl` | `//info-block-md`, `//*block-md`..      |
+| Question | `question-block`,`?block`    | `sm`, `md`, `lg`, `xl`, `xxl` | `//question-block-md` , `//?block-md`.. |
+| Warning  | `warning-block`,`!block`     | `sm`, `md`, `lg`, `xl`, `xxl` | `//warning-block-md`, `//!block-md`..   |
+| Function | `function-block` , `()block` | `sm`, `md`, `lg`, `xl`, `xxl` | `//function-block-md`, `//()block-md`.. |
+| Todo     | `todo-block`                 | `sm`, `md`, `lg`, `xl`, `xxl` | `//todo-block-md`..                     |
+| About    | `about-block`                | `sm`, `md`, `lg`, `xl`, `xxl` | `//about-block-md`..                    |
 
 <img src="block-lg.png" alt="icon" width="600" >
 
@@ -54,58 +54,62 @@
 
 ### 2. Header
 
-| Type     | Idetifier                        | example                                       |
-| -------- | -------------------------------- | --------------------------------------------- |
-| Default  | `header`                         | `//header-md`..                               |
+| Type     | Idetifier                    | example                                   |
+| -------- | ---------------------------- | ----------------------------------------- |
+| Default  | `header`                     | `//header-md`..                           |
 | Info     | `info-header` , `*header`    | `//info-header-md`, `//*header-md`..      |
 | Question | `question-header`, `?header` | `//question-header-md` , `//?header-md`.. |
 | Warning  | `warning-header`, `!header`  | `//warning-header-md`, `//!header-md`..   |
-| Todo     | `todo-header`                    | `//todo-header-md`..                          |
+| Todo     | `todo-header`                | `//todo-header-md`..                      |
 
 <br>
 <br>
 
 ### 3. Footer
 
-| Type    | Idetifier | example                       |
-| ------- | --------- | ----------------------------- |
+| Type    | Idetifier | example                   |
+| ------- | --------- | ------------------------- |
 | Default | `end`     | `//end-sm`, `//end-md` .. |
-
-
 
 <br>
 <br>
 
 ### 4. Divider
 
-| Type    | Idetifier | example                               |
-| ------- | --------- | ------------------------------------- |
+| Type    | Idetifier | example                           |
+| ------- | --------- | --------------------------------- |
 | Default | `divider` | `//divider-sm`, `//divider-md` .. |
-
 
 <br>
 <br>
 
 ### 5. Divider plain
 
-| Type    | Idetifier       | example                                           |
-| ------- | --------------- | ------------------------------------------------- |
+| Type    | Idetifier       | example                                       |
+| ------- | --------------- | --------------------------------------------- |
 | Default | `divider-plain` | `//divider-plain-sm`, `//divider-plain-md` .. |
-
-
-
 
 <br>
 <br>
 
 ### 6. Single line
 
+| Type     | Idetifier       | example              |
+| -------- | --------------- | -------------------- |
+| Default  | `comment`       | `//comment`          |
+| Info     | `info` , `*`    | `//info`, `//*`      |
+| Question | `question`, `?` | `//question` , `//?` |
+| Warning  | `warning`, `!`  | `//warning`, `//!`   |
+| Todo     | `todo`          | `//todo`             |
 
 <br>
 <br>
 
 ### 7. Multiline
 
+| Type    | Idetifier       | example                                       |
+| ------- | --------------- | --------------------------------------------- |
+| Default | `divider-plain` | `//divider-plain-sm`, `//divider-plain-md` .. |
 
 <p align="center">
 :wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash:
@@ -117,7 +121,6 @@
 | ------------ | --------- | ------------- |
 | Single lined | `/`       | `/header-sm`  |
 | Double lined | `//`      | `//header-sm` |
-
 
 <h4>Single lined</h4>
 <img src="single-line.png" alt="icon" width="600" >

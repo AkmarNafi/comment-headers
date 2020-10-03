@@ -807,9 +807,33 @@
      },
      // ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+     "todo": {
+          "prefix": "/todo",
+          "body": "#todo  ${1:TODO} ",
+         "description": "COMMENT TODO",
+          "scope": ""
+     },
+     "question": {
+          "prefix": "/?,/question",
+          "body": "#?  ${1:QUESTION}",
+        "description": "COMMENT QUESTION",
+          "scope": ""
+     },
+     "warning": {
+          "prefix": "/!,/warning",
+          "body": "#! ${1:WARNING} ",
+         "description": "COMMENT WARNING",
+          "scope": ""
+     },
+     "info": {
+          "prefix": "/*,/info",
+          "body": "#* ${1:INFO} ",
+           "description": "COMMENT INFO",
+          "scope": ""
+     },
      "comment": {
           "prefix": "/comment",
-          "body": "/* ${1:Comment}# /",
+          "body": "# ${1:Comment}  ",
           "description": "SINGLE LINE COMMENT",
           "scope": ""
      },
