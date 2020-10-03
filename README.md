@@ -40,7 +40,7 @@
 Type a trigger keyword like `//header-lg` and press enter.<br>
 Find the different triggers in the types section.
 
-<img src="images/howto.gif" alt="multiline" width="600" >
+<img src="images/howto.gif" alt="multiline" width="700" >
 <br>
 <br>
 <div align="center">&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;</div>
