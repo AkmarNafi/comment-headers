@@ -14,7 +14,6 @@
 <h2 align="center">Comment header snippets for VS-Code</h2>
 <h4 align="center"><a href="#related">Supports 30+ languages</a></h4></h4>
 
-</br>
 <p align="center">
   <a href="#how-to-use">How To Install</a> •
   <a href="#download">How To Use</a> •
@@ -123,11 +122,8 @@
 <h4>Single lined</h4>
 <img src="single-line.png" alt="icon" width="600" >
 
-
-
 <h4>Double lined</h4>
 <img src="double-line.png" alt="icon" width="600" >
-
 
 <p align="center">
 :wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash:
