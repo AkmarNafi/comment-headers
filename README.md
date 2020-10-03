@@ -122,7 +122,7 @@
 | Single lined | `/`       | `/header-sm`  |
 | Double lined | `//`      | `//header-sm` |
 
-<h4>Single lined</h4>
+<h4 id="inline">Single lined</h4>
 <img src="single-line.png" alt="icon" width="600" >
 
 <h4>Double lined</h4>
