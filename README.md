@@ -23,11 +23,16 @@
 
 ## :triangular_flag_on_post: How to Install
 
-<hr>
+<br>
+<br>
+<br>
 
 ## :triangular_flag_on_post: How to Use
 
 
+<br>
+<br>
+<br>
 
 ## :triangular_flag_on_post: Comment Type
 
@@ -45,8 +50,8 @@
 
 <img src="images/block-lg.png" alt="icon" width="600" >
 
-
 <br>
+
 
 ### 2. Header
 
@@ -58,8 +63,8 @@
 | Warning  | `warning-header`, `!header`  | `//warning-header-md`, `//!header-md`..   |
 | Todo     | `todo-header`                | `//todo-header-md`..                      |
 
-
 <br>
+
 
 ### 3. Footer
 
@@ -67,8 +72,8 @@
 | ------- | --------- | ------------------------- |
 | Default | `end`     | `//end-sm`, `//end-md` .. |
 
-
 <br>
+
 
 ### 4. Divider
 
@@ -76,8 +81,8 @@
 | ------- | --------- | --------------------------------- |
 | Default | `divider` | `//divider-sm`, `//divider-md` .. |
 
-
 <br>
+
 
 ### 5. Divider plain
 
@@ -87,6 +92,7 @@
 
 
 <br>
+
 
 ### 6. Inline
 
@@ -108,7 +114,8 @@
 | Default | `multiline` | `//multiline` |
 
 <br>
-
+<br>
+<br>
 
 
 ## :triangular_flag_on_post: Line Style
@@ -124,7 +131,9 @@
 <h4>Double lined</h4>
 <img src="images/double-line.png" alt="icon" width="600" >
 
-
+<br>
+<br>
+<br>
 
 ## :triangular_flag_on_post: Sizes
 
@@ -139,7 +148,8 @@
 Note: Inline(7) and Multiline (8) commments do not have size option.
 
 <br>
-
+<br>
+<br>
 
 ## :triangular_flag_on_post: Supported Languages
 
@@ -190,6 +200,6 @@ Note: Inline(7) and Multiline (8) commments do not have size option.
 
 </details>
 <br>
-<hr>
+<br>
 <br>
 <div align="center">Happy Coding <img src="images/trollface.png" height="20"></div>
