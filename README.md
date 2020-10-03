@@ -15,8 +15,6 @@
 <h4 align="center"><a href="#related">Supports 30+ languages</a></h4></h4>
 
 
-  [Installingrr](#installingrr) 
-   [Installingrrr](#installingrrr) 
 <p align="center">
   <a href="#how-to-use">How To Install</a> •
   <a href="#comment-type">How To Use</a> •
@@ -24,21 +22,23 @@
   <a href="#related">Supported languages</a> 
 </p>
 
-<h2><img src="images/flag.png" width="20"> How to Install</h2>
+<h2> How to Install<img src="images/flag.png" width="20"></h2>
 
 
+<br>
+<div align="center">	&#x27F7;</div>
+<br>
+
+
+##  How to Install 
+<div>&#128681</div>
 <br>
 <div align="center">__________________________________________________________________________________________________________________________</div>
 <br>
 
+## How to use
 
-<h2><img src="images/flag.png" width="20">Installing2</h2>
-
-<br>
-<div align="center">__________________________________________________________________________________________________________________________</div>
-<br>
-
-## :triangular_flag_on_post: Installing3
+## Comment types
 
 ### 1. Block
 
@@ -114,7 +114,7 @@
 <div align="center">__________________________________________________________________________________________________________________________</div>
 <br>
 
-## :triangular_flag_on_post: Line Style
+## Line Style
 
 | Type         | Idetifier | example       |
 | ------------ | --------- | ------------- |
@@ -131,7 +131,7 @@
 <div align="center">__________________________________________________________________________________________________________________________</div>
 <br>
 
-## :triangular_flag_on_post: Sizes
+## Sizes
 
 | Type              | Identifier | Example        |
 | ----------------- | ---------- | -------------- |
@@ -147,7 +147,7 @@ Note: Inline(7) and Multiline (8) commments do not have size option.
 <div align="center">__________________________________________________________________________________________________________________________</div>
 <br>
 
-## :triangular_flag_on_post: Supported Languages
+## Supported Languages
 
 <details>
 <summary>(expand)</summary>
