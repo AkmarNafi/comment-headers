@@ -26,11 +26,11 @@
 
 <hr>
 
-## How to Use
+## :triangular_flag_on_post: How to Use
 
 <hr>
 
-## Comment Type
+## :triangular_flag_on_post: Comment Type
 
 ### 1. Block
 
@@ -103,23 +103,10 @@
 
 ### 7. Multiline
 
-<hr>
-
-## Content Type
-
-### 1. Default
-
-### 2. info
-
-### 3. todo
-
-### 4. question
-
-### 5. warning
 
 <hr>
 
-## Line Style
+## :triangular_flag_on_post: Line Style
 
 | Type         | Idetifier | example       |
 | ------------ | --------- | ------------- |
@@ -136,8 +123,10 @@
 <img src="double-line.png" alt="icon" width="600" >
 
 <hr>
+:wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash:
+:wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash:
 
-## Sizes
+## :triangular_flag_on_post: Sizes
 
 | Type              | Identifier | Example        |
 | ----------------- | ---------- | -------------- |
@@ -150,7 +139,7 @@
 <br>
 <br>
 
-## Supported Languages
+## :triangular_flag_on_post: Supported Languages
 
 <details>
 <summary>(expand)</summary>
