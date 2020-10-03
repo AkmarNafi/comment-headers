@@ -40,10 +40,10 @@
 | Type     | Idetifier                       | example                                     |
 | -------- | ------------------------------- | ------------------------------------------- |
 | Default  | `block`                         | `//block-md`..                              |
-| Info     | `info-block` ,<br> `*block`     | `//info-block-md`, <br>`//*block-md`..      |
-| Question | `question-block`,<br> `?block`  | `//question-block-md` ,<br> `//?block-md`.. |
-| Warning  | `warning-block`,<br> `!block`   | `//warning-block-md`,<br> `//!block-md`..   |
-| Function | `function-block` ,<br> `()block` | `//function-block-md`,<br> `//()block-md`..                        |
+| Info     | `info-block` ,`*block`     | `//info-block-md`, `//*block-md`..      |
+| Question | `question-block`,`?block`  | `//question-block-md` , `//?block-md`.. |
+| Warning  | `warning-block`,`!block`   | `//warning-block-md`, `//!block-md`..   |
+| Function | `function-block` , `()block` | `//function-block-md`, `//()block-md`..                        |
 | Todo     | `todo-block`                    | `//todo-block-md`..                         |
 | About    | `about-block`                   | `//about-block-md`..                         |
 
