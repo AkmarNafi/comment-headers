@@ -28,7 +28,7 @@
 <div align="center">
 <b>Write beautifully structured code &#127881;</b>
 </br>
-<img  src="images/banner.png" alt="screenshot" width="700" >
+<img  src="images/banner.png" alt="screenshot" width="800" >
 
 </div>
 
@@ -60,6 +60,7 @@ Find the different triggers in the types section.
 | Function | `function-block` , `()block` | `//function-block-md`, `//()block-md`.. |
 | About    | `about-block`                | `//about-block-md`..                    |
 
+<br>
 <img src="images/blocks.png" alt="block" width="600" >
 
 <br>
@@ -83,7 +84,7 @@ Find the different triggers in the types section.
 | Type    | Identifier | Example                   |
 | ------- | ---------- | ------------------------- |
 | Default | `end`      | `//end-sm`, `//end-md` .. |
-
+<br>
 <img src="images/footers.png" alt="footer" width="900" >
 <br>
 
@@ -93,6 +94,7 @@ Find the different triggers in the types section.
 | ------- | ---------- | --------------------------------- |
 | Default | `divider`  | `//divider-sm`, `//divider-md` .. |
 
+<br>
 <img src="images/dividers.png" alt="dividers" width="900" >
 <br>
 
@@ -102,6 +104,7 @@ Find the different triggers in the types section.
 | ------- | --------------- | --------------------------------------------- |
 | Default | `divider-plain` | `//divider-plain-sm`, `//divider-plain-md` .. |
 
+<br>
 <img src="images/dividers-plain.png" alt="dividers plain" width="900" >
 <br>
 
@@ -115,6 +118,7 @@ Find the different triggers in the types section.
 | Warning  | `warning`, `!`  | `//warning`, `//!`   |
 | Todo     | `todo`          | `//todo`             |
 
+<br>
 <img src="images/inline.png" alt="inline" width="600" >
 <br>
 
@@ -124,6 +128,7 @@ Find the different triggers in the types section.
 | ------- | ----------- | ------------- |
 | Default | `multiline` | `//multiline` |
 
+<br>
 <img src="images/multiline.png" alt="multiline" width="600" >
 <br>
 <div align="center">&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;</div>
