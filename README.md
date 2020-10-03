@@ -25,7 +25,7 @@
 ## :triangular_flag_on_post: How to Install
 
 <p align="center">
-:wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash:
+:curly_loop::curly_loop::curly_loop::curly_loop::curly_loop::curly_loop::curly_loop::curly_loop::curly_loop::curly_loop::curly_loop::curly_loop::curly_loop::curly_loop::curly_loop::curly_loop::curly_loop::curly_loop:
 </p>
 
 ## :triangular_flag_on_post: How to Use
