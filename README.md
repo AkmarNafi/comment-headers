@@ -122,7 +122,7 @@
 | Single lined | `/`       | `/header-sm`  |
 | Double lined | `//`      | `//header-sm` |
 
-<h4 id="inline">Single lined</h4>
+<h4>Single lined</h4>
 <img src="single-line.png" alt="icon" width="600" >
 
 <h4>Double lined</h4>
@@ -142,7 +142,7 @@
 | Extra Large       | `-xl `     | `//header-xl`  |
 | Extra Extra Large | `-xxl `    | `//header-xxl` |
 
-Note: Inline<a href="Inline" >(7)</a> and Multiline <a href="inline">(8)</a> commments do not have size option.
+Note: Inline(7) and Multiline (8) commments do not have size option.
 
 <br>
 <p align="center">
