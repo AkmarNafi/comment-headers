@@ -27,7 +27,7 @@
 
 ## :triangular_flag_on_post: How to Use
 
-<hr>
+
 
 ## :triangular_flag_on_post: Comment Type
 
@@ -109,7 +109,7 @@
 
 <br>
 
-<hr>
+
 
 ## :triangular_flag_on_post: Line Style
 
@@ -124,7 +124,7 @@
 <h4>Double lined</h4>
 <img src="images/double-line.png" alt="icon" width="600" >
 
-<hr>
+
 
 ## :triangular_flag_on_post: Sizes
 
@@ -139,7 +139,7 @@
 Note: Inline(7) and Multiline (8) commments do not have size option.
 
 <br>
-<hr>
+
 
 ## :triangular_flag_on_post: Supported Languages
 
