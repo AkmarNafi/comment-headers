@@ -24,11 +24,15 @@
 
 ## :triangular_flag_on_post: How to Install
 
-<hr>
+<p align="center">
+:wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash:
+</p>
 
 ## :triangular_flag_on_post: How to Use
 
-<hr>
+<p align="center">
+:wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash:
+</p>
 
 ## :triangular_flag_on_post: Comment Type
 
@@ -104,7 +108,9 @@
 ### 7. Multiline
 
 
-<hr>
+<p align="center">
+:wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash:
+</p>
 
 ## :triangular_flag_on_post: Line Style
 
@@ -122,7 +128,7 @@
 <h4>Double lined</h4>
 <img src="double-line.png" alt="icon" width="600" >
 
-<hr>
+
 <p align="center">
 :wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash:
 </p>
@@ -189,6 +195,8 @@
 
 </details>
 
-#
+<p align="center">
+:wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash:
+</p>
 
 <div align="center">Happy Coding  :trollface:</div>
