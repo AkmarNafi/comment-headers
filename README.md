@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href=""><img src="icon.png" alt="icon" width="200"></a>
+  <a href=""><img src="images/icon.png" alt="icon" width="200"></a>
   
   </br>
   </br>
@@ -23,15 +23,11 @@
 
 ## :triangular_flag_on_post: How to Install
 
-<p align="center">
-:wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash:
-</p>
+<hr>
 
 ## :triangular_flag_on_post: How to Use
 
-<p align="center">
-:wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash:
-</p>
+<hr>
 
 ## :triangular_flag_on_post: Comment Type
 
@@ -47,7 +43,7 @@
 | Todo     | `todo-block`                 | `//todo-block-md`..                     |
 | About    | `about-block`                | `//about-block-md`..                    |
 
-<img src="block-lg.png" alt="icon" width="600" >
+<img src="images/block-lg.png" alt="icon" width="600" >
 
 
 <br>
@@ -109,13 +105,11 @@
 
 | Type    | Idetifier       | example                                       |
 | ------- | --------------- | --------------------------------------------- |
-| Default | `divider-plain` | `//divider-plain-sm`, `//divider-plain-md` .. |
+| Default | `multiline` | `//multiline` |
 
 <br>
 
-<p align="center">
-:wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash:
-</p>
+<hr>
 
 ## :triangular_flag_on_post: Line Style
 
@@ -125,14 +119,12 @@
 | Double lined | `//`      | `//header-sm` |
 
 <h4>Single lined</h4>
-<img src="single-line.png" alt="icon" width="600" >
+<img src="images/single-line.png" alt="icon" width="600" >
 
 <h4>Double lined</h4>
-<img src="double-line.png" alt="icon" width="600" >
+<img src="images/double-line.png" alt="icon" width="600" >
 
-<p align="center">
-:wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash:
-</p>
+<hr>
 
 ## :triangular_flag_on_post: Sizes
 
@@ -147,9 +139,7 @@
 Note: Inline(7) and Multiline (8) commments do not have size option.
 
 <br>
-<p align="center">
-:wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash:
-</p>
+<hr>
 
 ## :triangular_flag_on_post: Supported Languages
 
@@ -200,8 +190,6 @@ Note: Inline(7) and Multiline (8) commments do not have size option.
 
 </details>
 <br>
-<p align="center">
-:wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash:
-</p>
-
-<div align="center">Happy Coding  :trollface:</div>
+<hr>
+<br>
+<div align="center">Happy Coding <img src="images/trollface.png" height="20"></div>
