@@ -15,7 +15,8 @@
 <h4 align="center"><a href="#related">Supports 30+ languages</a></h4></h4>
 
 
-  [Installing](#installing) 
+  [Installingrr](#installingrr) 
+   [Installingrrr](#installingrrr) 
 <p align="center">
   <a href="#how-to-use">How To Install</a> •
   <a href="#comment-type">How To Use</a> •
@@ -31,13 +32,13 @@
 <br>
 
 
-<h2><img src="images/flag.png" width="20">Installing</h2>
+<h2><img src="images/flag.png" width="20">Installing2</h2>
 
 <br>
 <div align="center">__________________________________________________________________________________________________________________________</div>
 <br>
 
-## :triangular_flag_on_post: Installing
+## :triangular_flag_on_post: Installing3
 
 ### 1. Block
 
