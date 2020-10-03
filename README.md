@@ -37,15 +37,15 @@
 
 ### 1. Block
 
-| Type     | Identifier                   | Sizes                         | example                                 |
-| -------- | ---------------------------- | ----------------------------- | --------------------------------------- |
-| Default  | `block`                      | `sm`, `md`, `lg`, `xl`, `xxl` | `//block-md`..                          |
-| Info     | `info-block` ,`*block`       | `sm`, `md`, `lg`, `xl`, `xxl` | `//info-block-md`, `//*block-md`..      |
-| Question | `question-block`,`?block`    | `sm`, `md`, `lg`, `xl`, `xxl` | `//question-block-md` , `//?block-md`.. |
-| Warning  | `warning-block`,`!block`     | `sm`, `md`, `lg`, `xl`, `xxl` | `//warning-block-md`, `//!block-md`..   |
-| Function | `function-block` , `()block` | `sm`, `md`, `lg`, `xl`, `xxl` | `//function-block-md`, `//()block-md`.. |
-| Todo     | `todo-block`                 | `sm`, `md`, `lg`, `xl`, `xxl` | `//todo-block-md`..                     |
-| About    | `about-block`                | `sm`, `md`, `lg`, `xl`, `xxl` | `//about-block-md`..                    |
+| Type     | Identifier                   | example                                 |
+| -------- | ---------------------------- | --------------------------------------- |
+| Default  | `block`                      | `//block-md`..                          |
+| Info     | `info-block` ,`*block`       | `//info-block-md`, `//*block-md`..      |
+| Question | `question-block`,`?block`    | `//question-block-md` , `//?block-md`.. |
+| Warning  | `warning-block`,`!block`     | `//warning-block-md`, `//!block-md`..   |
+| Function | `function-block` , `()block` | `//function-block-md`, `//()block-md`.. |
+| Todo     | `todo-block`                 | `//todo-block-md`..                     |
+| About    | `about-block`                | `//about-block-md`..                    |
 
 <img src="block-lg.png" alt="icon" width="600" >
 
@@ -141,6 +141,8 @@
 | Large             | `-lg `     | `//header-lg`  |
 | Extra Large       | `-xl `     | `//header-xl`  |
 | Extra Extra Large | `-xxl `    | `//header-xxl` |
+
+Note: single lined<a>(7)</a> and multiline <a>(8)</a> commments do not have size option
 
 <br>
 <p align="center">
