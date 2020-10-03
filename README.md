@@ -14,23 +14,20 @@
 <h3 align="center">Comment header snippets for VS-Code</h3>
 <h4 align="center"><a href="#related">Supports 30+ languages</a></h4></h4>
 
-
 <p align="center">
-  <a href="#how-to-use">How To Install</a> •
-  <a href="#comment-type">How To Use</a> •
-
+  <a href="#how-to-install">How To Install</a> •
+  <a href="#how-to-use">How To Use</a> •
+  <a href="#related">Supported languages</a> 
+  <a href="#how-to-use">How To Use</a> •
   <a href="#related">Supported languages</a> 
 </p>
 
-<h2> How to Install<img src="images/flag.png" width="20"></h2>
-
-
 <br>
-<div align="center">	&#x27F7;</div>
+<div align="center">&#9887;&#9887;&#9887;&#9887;&#9887;&#9887;&#9887;&#9887;&#9887;&#9887;&#9887;&#9887;&#9887;&#9887;&#9887;&#9887;&#9887;&#9887;&#9887;&#9887;&#9887;&#9887;&#9887;&#9887;&#9887;&#9887;&#9887;</div>
 <br>
 
+## How to Install
 
-##  How to Install 
 <div>&#128681</div>
 <br>
 <div align="center">__________________________________________________________________________________________________________________________</div>
@@ -197,7 +194,6 @@ Note: Inline(7) and Multiline (8) commments do not have size option.
 </details>
 <br>
 <div align="center">__________________________________________________________________________________________________________________________</div>
-
 
 <br>
 <div align="center">Happy Coding <img src="images/trollface.png" height="20"></div>
