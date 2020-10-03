@@ -24,14 +24,13 @@
 ## :triangular_flag_on_post: How to Install
 
 <br>
-<br>
+<div align="center">__________________________________________________________________________________________________________________________</div>
 <br>
 
 ## :triangular_flag_on_post: How to Use
 
-
 <br>
-<br>
+<div align="center">__________________________________________________________________________________________________________________________</div>
 <br>
 
 ## :triangular_flag_on_post: Comment Type
@@ -52,7 +51,6 @@
 
 <br>
 
-
 ### 2. Header
 
 | Type     | Idetifier                    | example                                   |
@@ -65,7 +63,6 @@
 
 <br>
 
-
 ### 3. Footer
 
 | Type    | Idetifier | example                   |
@@ -73,7 +70,6 @@
 | Default | `end`     | `//end-sm`, `//end-md` .. |
 
 <br>
-
 
 ### 4. Divider
 
@@ -83,16 +79,13 @@
 
 <br>
 
-
 ### 5. Divider plain
 
 | Type    | Idetifier       | example                                       |
 | ------- | --------------- | --------------------------------------------- |
 | Default | `divider-plain` | `//divider-plain-sm`, `//divider-plain-md` .. |
 
-
 <br>
-
 
 ### 6. Inline
 
@@ -106,17 +99,15 @@
 
 <br>
 
-
 ### 7. Multiline
 
-| Type    | Idetifier       | example                                       |
-| ------- | --------------- | --------------------------------------------- |
+| Type    | Idetifier   | example       |
+| ------- | ----------- | ------------- |
 | Default | `multiline` | `//multiline` |
 
 <br>
 <br>
 <br>
-
 
 ## :triangular_flag_on_post: Line Style
 
@@ -148,7 +139,7 @@
 Note: Inline(7) and Multiline (8) commments do not have size option.
 
 <br>
-<div align="center">~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</div>
+<div align="center">__________________________________________________________________________________________________________________________</div>
 <br>
 
 ## :triangular_flag_on_post: Supported Languages
@@ -200,8 +191,8 @@ Note: Inline(7) and Multiline (8) commments do not have size option.
 
 </details>
 <br>
-<br>
-<div align="center">~</div>
+<div align="center">__________________________________________________________________________________________________________________________</div>
+
 
 <br>
 <div align="center">Happy Coding <img src="images/trollface.png" height="20"></div>
