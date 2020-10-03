@@ -3,7 +3,7 @@
      "displayName": "Comment headers",
      "description": "comment headers snippets  ",
      "publisher": "akmarnafi",
-     "version": "0.3.0",
+     "version": "1.0.0",
      "engines": {
           "vscode": "^1.49.0"
      },
