@@ -49,7 +49,7 @@
 
 <img src="block-lg.png" alt="icon" width="600" >
 
-<br>
+
 <br>
 
 ### 2. Header
@@ -62,7 +62,7 @@
 | Warning  | `warning-header`, `!header`  | `//warning-header-md`, `//!header-md`..   |
 | Todo     | `todo-header`                | `//todo-header-md`..                      |
 
-<br>
+
 <br>
 
 ### 3. Footer
@@ -71,7 +71,7 @@
 | ------- | --------- | ------------------------- |
 | Default | `end`     | `//end-sm`, `//end-md` .. |
 
-<br>
+
 <br>
 
 ### 4. Divider
@@ -80,7 +80,7 @@
 | ------- | --------- | --------------------------------- |
 | Default | `divider` | `//divider-sm`, `//divider-md` .. |
 
-<br>
+
 <br>
 
 ### 5. Divider plain
@@ -89,7 +89,7 @@
 | ------- | --------------- | --------------------------------------------- |
 | Default | `divider-plain` | `//divider-plain-sm`, `//divider-plain-md` .. |
 
-<br>
+
 <br>
 
 ### 6. Inline
