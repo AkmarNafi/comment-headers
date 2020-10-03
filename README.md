@@ -25,12 +25,14 @@
 ## :triangular_flag_on_post: How to Install
 
 <p align="center">
-:curly_loop::curly_loop::curly_loop::curly_loop::curly_loop::curly_loop::curly_loop::curly_loop::curly_loop::curly_loop::curly_loop::curly_loop::curly_loop::curly_loop::curly_loop::curly_loop::curly_loop::curly_loop:
+:wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash:
+:wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash:
 </p>
 
 ## :triangular_flag_on_post: How to Use
 
 <p align="center">
+:wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash:
 :wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash:
 </p>
 
@@ -110,6 +112,7 @@
 
 <p align="center">
 :wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash:
+:wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash:
 </p>
 
 ## :triangular_flag_on_post: Line Style
@@ -130,6 +133,7 @@
 
 
 <p align="center">
+:wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash:
 :wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash:
 </p>
 
@@ -196,6 +200,7 @@
 </details>
 
 <p align="center">
+:wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash:
 :wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash:
 </p>
 
