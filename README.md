@@ -106,7 +106,7 @@
 | Default | `multiline` | `//multiline` |
 
 <br>
-<br>
+<div align="center">__________________________________________________________________________________________________________________________</div>
 <br>
 
 ## :triangular_flag_on_post: Line Style
