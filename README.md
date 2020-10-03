@@ -28,7 +28,7 @@
 <div align="center">
 <b>Write beautifully structured code &#127881;</b>
 </br>
-<img  src="images/banner.png" alt="screenshot" width="850" >
+<img  src="images/banner.png" alt="screenshot" width="900" >
 
 </div>
 
