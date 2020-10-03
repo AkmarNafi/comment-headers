@@ -51,7 +51,7 @@
 | Todo     | `todo-block`                 | `//todo-block-md`..                     |
 | About    | `about-block`                | `//about-block-md`..                    |
 
-<img src="images/sceenshot.png" alt="icon" width="700" >
+<img src="images/sceenshot.png" alt="icon" width="900" >
 
 <br>
 
