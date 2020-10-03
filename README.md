@@ -5,10 +5,12 @@
   </br>
   </br>
   COMMENT HEADERS
-  </br></br>
-<!-- [![Version](https://vsmarketplacebadge.apphb.com/version/akmarnafi.comment-header.svg)](https://marketplace.visualstudio.com/items?itemName=akmarnafi.midnight-code)
-[![Installs](https://vsmarketplacebadge.apphb.com/installs/akmarnafi.comment-headers.png)](https://marketplace.visualstudio.com/items?itemName=akmarnafi.midnight-code)
-[![Ratings](https://vsmarketplacebadge.apphb.com/rating/akmarnafi.midnight-code.svg)](https://marketplace.visualstudio.com/items?itemName=akmarnafi.midnight-code) -->
+  </br>
+  </br>
+  
+[![Version](https://vsmarketplacebadge.apphb.com/version/akmarnafi.comment-headers.svg)](https://marketplace.visualstudio.com/items?itemName=akmarnafi.comment-headers)
+[![Installs](https://vsmarketplacebadge.apphb.com/downloads/akmarnafi.comment-headers.svg)](https://marketplace.visualstudio.com/items?itemName=akmarnafi.comment-headers)
+[![Ratings](https://vsmarketplacebadge.apphb.com/rating/akmarnafi.comment-headers.png)](https://marketplace.visualstudio.com/items?itemName=akmarnafi.comment-headers)
 
 </h1>
 
@@ -85,6 +87,7 @@ Find the different triggers in the types section.
 | Type    | Identifier | Example                   |
 | ------- | ---------- | ------------------------- |
 | Default | `end`      | `//end-sm`, `//end-md` .. |
+
 <br>
 <img src="images/footers.png" alt="footer" width="900" >
 <br>
