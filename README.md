@@ -28,18 +28,20 @@
 
 ## How to Install
 
-
 <br>
 <div align="center">&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;</div>
 <br>
 
 ## How to use
+<br>
+<div align="center">&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;</div>
+<br>
 
 ## Comment types
 
 ### 1. Block
 
-| Type     | Identifier                   | example                                 |
+| Type     | Identifier                   | Example                                 |
 | -------- | ---------------------------- | --------------------------------------- |
 | Default  | `block`                      | `//block-md`..                          |
 | Info     | `info-block` ,`*block`       | `//info-block-md`, `//*block-md`..      |
@@ -49,13 +51,13 @@
 | Todo     | `todo-block`                 | `//todo-block-md`..                     |
 | About    | `about-block`                | `//about-block-md`..                    |
 
-<img src="images/block-lg.png" alt="icon" width="600" >
+<img src="images/block.png" alt="icon" width="600" >
 
 <br>
 
 ### 2. Header
 
-| Type     | Idetifier                    | example                                   |
+| Type     | Identifier                   | Example                                   |
 | -------- | ---------------------------- | ----------------------------------------- |
 | Default  | `header`                     | `//header-md`..                           |
 | Info     | `info-header` , `*header`    | `//info-header-md`, `//*header-md`..      |
@@ -67,23 +69,23 @@
 
 ### 3. Footer
 
-| Type    | Idetifier | example                   |
-| ------- | --------- | ------------------------- |
-| Default | `end`     | `//end-sm`, `//end-md` .. |
+| Type    | Identifier | Example                   |
+| ------- | ---------- | ------------------------- |
+| Default | `end`      | `//end-sm`, `//end-md` .. |
 
 <br>
 
 ### 4. Divider
 
-| Type    | Idetifier | example                           |
-| ------- | --------- | --------------------------------- |
-| Default | `divider` | `//divider-sm`, `//divider-md` .. |
+| Type    | Identifier | Example                           |
+| ------- | ---------- | --------------------------------- |
+| Default | `divider`  | `//divider-sm`, `//divider-md` .. |
 
 <br>
 
 ### 5. Divider plain
 
-| Type    | Idetifier       | example                                       |
+| Type    | Identifier      | Example                                       |
 | ------- | --------------- | --------------------------------------------- |
 | Default | `divider-plain` | `//divider-plain-sm`, `//divider-plain-md` .. |
 
@@ -91,7 +93,7 @@
 
 ### 6. Inline
 
-| Type     | Idetifier       | example              |
+| Type     | Identifier      | Example              |
 | -------- | --------------- | -------------------- |
 | Default  | `comment`       | `//comment`          |
 | Info     | `info` , `*`    | `//info`, `//*`      |
@@ -103,7 +105,7 @@
 
 ### 7. Multiline
 
-| Type    | Idetifier   | example       |
+| Type    | Identifier  | Example       |
 | ------- | ----------- | ------------- |
 | Default | `multiline` | `//multiline` |
 
@@ -113,7 +115,7 @@
 
 ## Line Style
 
-| Type         | Idetifier | example       |
+| Type         | Idetifier | Example       |
 | ------------ | --------- | ------------- |
 | Single lined | `/`       | `/header-sm`  |
 | Double lined | `//`      | `//header-sm` |
@@ -194,6 +196,7 @@ Note: Inline(7) and Multiline (8) commments do not have size option.
 
 </details>
 <br>
-<div align="center">&#10066;&#10066;&#10066;</div>
+
+<div align="center">&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;</div>
 <br>
 <div align="center">Happy Coding <img src="images/trollface.png" height="20"></div>

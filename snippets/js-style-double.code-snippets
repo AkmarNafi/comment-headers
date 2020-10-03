@@ -85,7 +85,7 @@
           "scope": ""
      },
      "comment-block-info-lg": {
-          "prefix": "//*block0lg,//info-block-lg",
+          "prefix": "//*block-lg,//info-block-lg",
           "body": [
                "/**========================================================================",
                " * *                                ${1:INFO}",
