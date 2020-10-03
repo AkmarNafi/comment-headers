@@ -103,13 +103,15 @@
 | Todo     | `todo`          | `//todo`             |
 
 <br>
-<br>
+
 
 ### 7. Multiline
 
 | Type    | Idetifier       | example                                       |
 | ------- | --------------- | --------------------------------------------- |
 | Default | `divider-plain` | `//divider-plain-sm`, `//divider-plain-md` .. |
+
+<br>
 
 <p align="center">
 :wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash:
