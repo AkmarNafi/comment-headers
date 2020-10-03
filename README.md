@@ -59,6 +59,7 @@ Find the different triggers in the types section.
 | Todo     | `todo-block`                 | `//todo-block-md`..                     |
 | Function | `function-block` , `()block` | `//function-block-md`, `//()block-md`.. |
 | About    | `about-block`                | `//about-block-md`..                    |
+
 <br>
 <img src="images/blocks.png" alt="block" width="600" >
 
