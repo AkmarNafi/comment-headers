@@ -192,7 +192,7 @@
 </details>
 
 <p align="center">
-:wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash::wavy_dash:
+:curly_loop:
 </p>
 
 <div align="center">Happy Coding  :trollface:</div>
