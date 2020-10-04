@@ -1,19 +1,15 @@
 <h1 align="center">
   <br>
-  <a href=""><img src="images/icon.png" alt="icon" width="200"></a>
-  
-  </br>
-  </br>
-  COMMENT HEADERS
-  </br>
-  </br>
-  
-[![Installs](https://vsmarketplacebadge.apphb.com/downloads/akmarnafi.comment-headers.svg)](https://marketplace.visualstudio.com/items?itemName=akmarnafi.comment-headers)
+  <a href=""><img src="images/icon.png" alt="icon" width="200"></a> 
+</br>
+</br>
+COMMENT HEADERS
+</br>
+</br>
+
+<!-- [![Installs](https://vsmarketplacebadge.apphb.com/downloads/akmarnafi.comment-headers.svg)](https://marketplace.visualstudio.com/items?itemName=akmarnafi.comment-headers)
 [![Version](https://vsmarketplacebadge.apphb.com/version/akmarnafi.comment-headers.svg)](https://marketplace.visualstudio.com/items?itemName=akmarnafi.comment-headers)
-[![Ratings](https://vsmarketplacebadge.apphb.com/rating/akmarnafi.comment-headers.svg)](https://marketplace.visualstudio.com/items?itemName=akmarnafi.comment-headers)
-
-
-
+[![Ratings](https://vsmarketplacebadge.apphb.com/rating/akmarnafi.comment-headers.svg)](https://marketplace.visualstudio.com/items?itemName=akmarnafi.comment-headers) -->
 </h1>
 
 <h3 align="center">Comment header snippets for VS-Code</h3>
