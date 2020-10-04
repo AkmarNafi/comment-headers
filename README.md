@@ -10,7 +10,7 @@
   
 [![Installs](https://vsmarketplacebadge.apphb.com/downloads/akmarnafi.comment-headers.svg)](https://marketplace.visualstudio.com/items?itemName=akmarnafi.comment-headers)
 [![Version](https://vsmarketplacebadge.apphb.com/version/akmarnafi.comment-headers.svg)](https://marketplace.visualstudio.com/items?itemName=akmarnafi.comment-headers)
-[![Ratings](https://vsmarketplacebadge.apphb.com/rating/akmarnafi.comment-headers.png)](https://marketplace.visualstudio.com/items?itemName=akmarnafi.comment-headers)
+[![Ratings](https://vsmarketplacebadge.apphb.com/rating/akmarnafi.comment-headers.svg)](https://marketplace.visualstudio.com/items?itemName=akmarnafi.comment-headers)
 
 
 
