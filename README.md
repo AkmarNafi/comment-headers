@@ -10,13 +10,9 @@ COMMENT HEADERS
 <!-- [![Installs](https://vsmarketplacebadge.apphb.com/downloads/akmarnafi.comment-headers.svg)](https://marketplace.visualstudio.com/items?itemName=akmarnafi.comment-headers)
 [![Version](https://vsmarketplacebadge.apphb.com/version/akmarnafi.comment-headers.svg)](https://marketplace.visualstudio.com/items?itemName=akmarnafi.comment-headers)
 [![Ratings](https://vsmarketplacebadge.apphb.com/rating/akmarnafi.comment-headers.svg)](https://marketplace.visualstudio.com/items?itemName=akmarnafi.comment-headers) -->
+
 </h1>
 
-<h3 align="center">Comment header snippets for VS-Code</h3>
-<h4 align="center"><a href="#supported-languages">Supports 30+ languages</a></h4>
-
-<h4 align="center">Works with <a  href="vscode:extension/aaron-bond.better-comments">Better comments</a></h4>
-<br>
 <p align="center">
   <a href="#how-to-use">How To Use</a> •
   <a href="#types">Types</a> •
@@ -24,16 +20,27 @@ COMMENT HEADERS
   <a href="#supported-languages">Supported languages</a> 
 </p>
 
+
+
 <br>
 <div align="center">
-<b>Write beautifully structured code &#127881;</b>
+<h3>Write beautifully structured code &#127881;</h3>
+<h5 align="center"><a href="#supported-languages">Supports 30+ languages</a></h5>
+
+<h5 align="center">Works with <a  href="vscode:extension/aaron-bond.better-comments">Better comments</a></h5>
 </br>
 <img  src="images/banner.png" alt="screenshot" width="900" >
 
 </div>
 
+
+
 <div align="center">&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;</div>
+
+
+
 <br>
+
 
 ## How to use
 
@@ -45,6 +52,7 @@ Find the different triggers in the types section.
 <br>
 <div align="center">&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;&#12336;</div>
 <br>
+
 
 ## Types
 
@@ -138,7 +146,7 @@ Find the different triggers in the types section.
 
 ## Line Style
 
-| Type         | Idetifier | Example       |
+| Type         | Identifier | Example       |
 | ------------ | --------- | ------------- |
 | Single lined | `/`       | `/header-sm`  |
 | Double lined | `//`      | `//header-sm` |
@@ -163,7 +171,7 @@ Find the different triggers in the types section.
 | Extra Large       | `-xl `     | `//header-xl`  |
 | Extra Extra Large | `-xxl `    | `//header-xxl` |
 
-Note: Inline(7) and Multiline (8) commments do not have size option.
+Note: Inline(6) and Multiline (7) comments do not have size option.
 
 <br>
 
