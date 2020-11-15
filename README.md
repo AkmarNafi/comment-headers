@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href=""><img src="images/icon.png" alt="icon" width="200"></a> 
+  <a href=""><img src="images/icon.png" alt="icon" width="150"></a> 
 </br>
 </br>
 COMMENT HEADERS
@@ -24,10 +24,9 @@ COMMENT HEADERS
 
 <br>
 <div align="center">
-<h3>Write beautifully structured code &#127881;</h3>
-<h5 align="center"><a href="#supported-languages">Supports 30+ languages</a></h5>
-
-<h5 align="center">Works with <a  href="vscode:extension/aaron-bond.better-comments">Better comments</a></h5>
+<h3></underline>Write beautifully structured code &#127881;</h3>
+<h4 align="center"><a href="#supported-languages">Supports 30+ languages</a></h4>
+<h4 align="center">Works with <a  href="vscode:extension/aaron-bond.better-comments">Better comments</a></h4>
 </br>
 <img  src="images/banner.png" alt="screenshot" width="900" >
 
