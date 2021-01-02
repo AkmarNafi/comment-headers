@@ -395,7 +395,7 @@
      // ================================================================================================================================================================================================================================================================================================
 
      "comment-block-function-sm": {
-          "prefix": "//()block-sm,//function-block-sm",
+          "prefix": "//function-block-sm",
           "body": [
                "/**======================",
                " **   ${1:FUNCTION NAME}",
@@ -407,7 +407,7 @@
           "scope": ""
      },
      "comment-block-function-md": {
-          "prefix": "//()block-md,//function-block-md",
+          "prefix": "//function-block-md",
           "body": [
                "/**==============================================",
                " **              ${1:FUNCTION NAME}",
@@ -421,7 +421,7 @@
           "scope": ""
      },
      "comment-block-function-lg": {
-          "prefix": "//()block-lg,//function-block-lg",
+          "prefix": "//function-block-lg",
           "body": [
                "/**========================================================================",
                " **                           ${1:FUNCTION NAME}",
@@ -435,7 +435,7 @@
           "scope": ""
      },
      "comment-block-function-xl": {
-          "prefix": "//()block--xl,//function-block-xl",
+          "prefix": "//function-block-xl",
           "body": [
                "/**================================================================================================",
                " **                                      ${1:FUNCTION NAME}",
@@ -449,7 +449,7 @@
           "scope": ""
      },
      "comment-block-function-xxl": {
-          "prefix": "//()block-xxl,//function-block-xxl",
+          "prefix": "//function-block-xxl",
           "body": [
                "/**=======================================================================================================================",
                " **                                                  ${1:FUNCTION NAME}",

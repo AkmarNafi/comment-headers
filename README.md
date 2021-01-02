@@ -64,7 +64,7 @@ Find the different triggers in the types section.
 | Question | `question-block`,`?block`    | `//question-block-md` , `//?block-md`.. |
 | Warning  | `warning-block`,`!block`     | `//warning-block-md`, `//!block-md`..   |
 | Todo     | `todo-block`                 | `//todo-block-md`..                     |
-| Function | `function-block` , `()block` | `//function-block-md`, `//()block-md`.. |
+| Function | `function-block`             | `//function-block-md`,.. 
 | About    | `about-block`                | `//about-block-md`..                    |
 
 <br>
