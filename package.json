@@ -1,362 +1,378 @@
 {
-     "name": "comment-headers",
-     "displayName": "Comment headers",
-     "description": "comment headers snippets  ",
-     "publisher": "akmarnafi",
-     "version": "1.9.0",
-     "engines": {
-          "vscode": "^1.49.0"
-     },
-     "icon": "images/icon.png",
-     "repository": {
-          "type": "git",
-          "url": "https://github.com/AkmarNafi/comment-headers.git"
-     },
-     "homepage": "https://github.com/AkmarNafi/comment-headers/blob/master/README.md",
-     "keywords": [
-          "header",
-          "sections",
-          "blocks",
-          "comment",
-          "divider",
-          "format",
-          "code",
-          "html",
-          "css",
-          "javascript",
-          "c",
-          "cpp",
-          "java"
-     ],
-     "author": "Akmar nafi <akmar.nafi@gmail.com> ",
-     "extensionDependencies": [
-          "aaron-bond.better-comments"
-     ],
-     "categories": [
-          "Snippets"
-     ],
-     "contributes": {
-          "snippets": [
-               {
-                    "language": "css",
-                    "path": "./snippets/js-style-single.code-snippets"
-               },
-               {
-                    "language": "css",
-                    "path": "./snippets/js-style-double.code-snippets"
-               },
-               {
-                    "language": "scss",
-                    "path": "./snippets/js-style-single.code-snippets"
-               },
-               {
-                    "language": "scss",
-                    "path": "./snippets/js-style-double.code-snippets"
-               },
-               {
-                    "language": "sass",
-                    "path": "./snippets/js-style-single.code-snippets"
-               },
-               {
-                    "language": "sass",
-                    "path": "./snippets/js-style-double.code-snippets"
-               },
-               {
-                    "language": "less",
-                    "path": "./snippets/js-style-single.code-snippets"
-               },
-               {
-                    "language": "less",
-                    "path": "./snippets/js-style-double.code-snippets"
-               },
-               {
-                    "language": "stylus",
-                    "path": "./snippets/js-style-single.code-snippets"
-               },
-               {
-                    "language": "stylus",
-                    "path": "./snippets/js-style-double.code-snippets"
-               },
-               {
-                    "language": "javascript",
-                    "path": "./snippets/js-style-single.code-snippets"
-               },
-               {
-                    "language": "javascript",
-                    "path": "./snippets/js-style-double.code-snippets"
-               },
-               {
-                    "language": "typescript",
-                    "path": "./snippets/js-style-single.code-snippets"
-               },
-               {
-                    "language": "typescript",
-                    "path": "./snippets/js-style-double.code-snippets"
-               },
-               {
-                    "language": "c",
-                    "path": "./snippets/js-style-single.code-snippets"
-               },
-               {
-                    "language": "c",
-                    "path": "./snippets/js-style-double.code-snippets"
-               },
-               {
-                    "language": "cpp",
-                    "path": "./snippets/js-style-single.code-snippets"
-               },
-               {
-                    "language": "cpp",
-                    "path": "./snippets/js-style-double.code-snippets"
-               },
-               {
-                    "language": "csharp",
-                    "path": "./snippets/js-style-single.code-snippets"
-               },
-               {
-                    "language": "csharp",
-                    "path": "./snippets/js-style-double.code-snippets"
-               },
-               {
-                    "language": "java",
-                    "path": "./snippets/js-style-single.code-snippets"
-               },
-               {
-                    "language": "java",
-                    "path": "./snippets/js-style-double.code-snippets"
-               },
-               {
-                    "language": "dart",
-                    "path": "./snippets/js-style-single.code-snippets"
-               },
-               {
-                    "language": "dart",
-                    "path": "./snippets/js-style-double.code-snippets"
-               },
-               {
-                    "language": "go",
-                    "path": "./snippets/js-style-single.code-snippets"
-               },
-               {
-                    "language": "go",
-                    "path": "./snippets/js-style-double.code-snippets"
-               },
-               {
-                    "language": "groovy",
-                    "path": "./snippets/js-style-single.code-snippets"
-               },
-               {
-                    "language": "groovy",
-                    "path": "./snippets/js-style-double.code-snippets"
-               },
-               {
-                    "language": "jsoc",
-                    "path": "./snippets/js-style-single.code-snippets"
-               },
-               {
-                    "language": "jsoc",
-                    "path": "./snippets/js-style-double.code-snippets"
-               },
-               {
-                    "language": "nested",
-                    "path": "./snippets/js-style-single.code-snippets"
-               },
-               {
-                    "language": "nested",
-                    "path": "./snippets/js-style-double.code-snippets"
-               },
-               {
-                    "language": "objective-c",
-                    "path": "./snippets/js-style-single.code-snippets"
-               },
-               {
-                    "language": "objective-c",
-                    "path": "./snippets/js-style-double.code-snippets"
-               },
-               {
-                    "language": "objective-cpp",
-                    "path": "./snippets/js-style-single.code-snippets"
-               },
-               {
-                    "language": "objective-cpp",
-                    "path": "./snippets/js-style-double.code-snippets"
-               },
-               {
-                    "language": "php",
-                    "path": "./snippets/js-style-single.code-snippets"
-               },
-               {
-                    "language": "php",
-                    "path": "./snippets/js-style-double.code-snippets"
-               },
-               {
-                    "language": "rust",
-                    "path": "./snippets/js-style-single.code-snippets"
-               },
-               {
-                    "language": "rust",
-                    "path": "./snippets/js-style-double.code-snippets"
-               },
-               {
-                    "language": "sql",
-                    "path": "./snippets/js-style-single.code-snippets"
-               },
-               {
-                    "language": "sql",
-                    "path": "./snippets/js-style-double.code-snippets"
-               },
-               {
-                    "language": "swift",
-                    "path": "./snippets/js-style-single.code-snippets"
-               },
-               {
-                    "language": "swift",
-                    "path": "./snippets/js-style-double.code-snippets"
-               },
-               {
-                    "language": "python",
-                    "path": "./snippets/python-style-single.code-snippets"
-               },
-               {
-                    "language": "python",
-                    "path": "./snippets/python-style-double.code-snippets"
-               },
-               {
-                    "language": "dockerfile",
-                    "path": "./snippets/python-style-double.code-snippets"
-               },
-               {
-                    "language": "dockerfile",
-                    "path": "./snippets/python-style-single.code-snippets"
-               },
-               {
-                    "language": "coffeescript",
-                    "path": "./snippets/python-style-single.code-snippets"
-               },
-               {
-                    "language": "coffeescript",
-                    "path": "./snippets/python-style-double.code-snippets"
-               },
-               {
-                    "language": "nim",
-                    "path": "./snippets/python-style-single.code-snippets"
-               },
-               {
-                    "language": "nim",
-                    "path": "./snippets/python-style-double.code-snippets"
-               },
-               {
-                    "language": "perl",
-                    "path": "./snippets/python-style-single.code-snippets"
-               },
-               {
-                    "language": "perl",
-                    "path": "./snippets/python-style-double.code-snippets"
-               },
-               {
-                    "language": "powershell",
-                    "path": "./snippets/python-style-single.code-snippets"
-               },
-               {
-                    "language": "powershell",
-                    "path": "./snippets/python-style-double.code-snippets"
-               },
-               {
-                    "language": "shellscript",
-                    "path": "./snippets/python-style-single.code-snippets"
-               },
-               {
-                    "language": "shellscript",
-                    "path": "./snippets/python-style-double.code-snippets"
-               },
-               {
-                    "language": "puppet",
-                    "path": "./snippets/python-style-single.code-snippets"
-               },
-               {
-                    "language": "puppet",
-                    "path": "./snippets/python-style-double.code-snippets"
-               },
-               {
-                    "language": "tcl",
-                    "path": "./snippets/python-style-single.code-snippets"
-               },
-               {
-                    "language": "tcl",
-                    "path": "./snippets/python-style-double.code-snippets"
-               },
-               {
-                    "language": "yaml",
-                    "path": "./snippets/python-style-single.code-snippets"
-               },
-               {
-                    "language": "yaml",
-                    "path": "./snippets/python-style-double.code-snippets"
-               },
-               {
-                    "language": "r",
-                    "path": "./snippets/python-style-single.code-snippets"
-               },
-               {
-                    "language": "r",
-                    "path": "./snippets/python-style-double.code-snippets"
-               },
-               {
-                    "language": "ruby",
-                    "path": "./snippets/python-style-single.code-snippets"
-               },
-               {
-                    "language": "ruby",
-                    "path": "./snippets/python-style-double.code-snippets"
-               },
-               {
-                    "language": "html",
-                    "path": "./snippets/html-style-single.code-snippets"
-               },
-               {
-                    "language": "html",
-                    "path": "./snippets/html-style-double.code-snippets"
-               },
-               {
-                    "language": "xml",
-                    "path": "./snippets/html-style-single.code-snippets"
-               },
-               {
-                    "language": "xml",
-                    "path": "./snippets/html-style-double.code-snippets"
-               },
-               {
-                    "language": "xsl",
-                    "path": "./snippets/html-style-single.code-snippets"
-               },
-               {
-                    "language": "xsl",
-                    "path": "./snippets/html-style-double.code-snippets"
-               },
-               {
-                    "language": "markdown",
-                    "path": "./snippets/html-style-single.code-snippets"
-               },
-               {
-                    "language": "markdown",
-                    "path": "./snippets/html-style-double.code-snippets"
-               },
-               {
-                    "language": "coldfusion",
-                    "path": "./snippets/html-style-single.code-snippets"
-               },
-               {
-                    "language": "coldfusion",
-                    "path": "./snippets/html-style-double.code-snippets"
-               },
-               {
-                    "language": "vue-html",
-                    "path": "./snippets/html-style-single.code-snippets"
-               },
-               {
-                    "language": "vue-html",
-                    "path": "./snippets/html-style-double.code-snippets"
-               }
-          ]
-     }
+  "name": "comment-headers",
+  "displayName": "Comment headers",
+  "description": "comment headers snippets  ",
+  "publisher": "akmarnafi",
+  "version": "1.9.0",
+  "engines": {
+    "vscode": "^1.49.0"
+  },
+  "icon": "images/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AkmarNafi/comment-headers.git"
+  },
+  "homepage": "https://github.com/AkmarNafi/comment-headers/blob/master/README.md",
+  "keywords": [
+    "header",
+    "sections",
+    "blocks",
+    "comment",
+    "divider",
+    "format",
+    "code",
+    "html",
+    "css",
+    "javascript",
+    "c",
+    "cpp",
+    "java"
+  ],
+  "author": "Akmar nafi <akmar.nafi@gmail.com> ",
+  "extensionDependencies": [
+    "aaron-bond.better-comments"
+  ],
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "css",
+        "path": "./snippets/js-style-single.code-snippets"
+      },
+      {
+        "language": "css",
+        "path": "./snippets/js-style-double.code-snippets"
+      },
+      {
+        "language": "scss",
+        "path": "./snippets/js-style-single.code-snippets"
+      },
+      {
+        "language": "scss",
+        "path": "./snippets/js-style-double.code-snippets"
+      },
+      {
+        "language": "sass",
+        "path": "./snippets/js-style-single.code-snippets"
+      },
+      {
+        "language": "sass",
+        "path": "./snippets/js-style-double.code-snippets"
+      },
+      {
+        "language": "less",
+        "path": "./snippets/js-style-single.code-snippets"
+      },
+      {
+        "language": "less",
+        "path": "./snippets/js-style-double.code-snippets"
+      },
+      {
+        "language": "stylus",
+        "path": "./snippets/js-style-single.code-snippets"
+      },
+      {
+        "language": "stylus",
+        "path": "./snippets/js-style-double.code-snippets"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/js-style-single.code-snippets"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/js-style-double.code-snippets"
+      },
+      {
+        "language": "typescript",
+        "path": "./snippets/js-style-single.code-snippets"
+      },
+      {
+        "language": "typescript",
+        "path": "./snippets/js-style-double.code-snippets"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "./snippets/jsx-style-double.code-snippets"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "./snippets/jsx-style-single.code-snippets"
+      },
+      {
+        "language": "typescriptreact",
+        "path": "./snippets/jsx-style-double.code-snippets"
+      },
+      {
+        "language": "typescriptreact",
+        "path": "./snippets/jsx-style-single.code-snippets"
+      },
+      {
+        "language": "c",
+        "path": "./snippets/js-style-single.code-snippets"
+      },
+      {
+        "language": "c",
+        "path": "./snippets/js-style-double.code-snippets"
+      },
+      {
+        "language": "cpp",
+        "path": "./snippets/js-style-single.code-snippets"
+      },
+      {
+        "language": "cpp",
+        "path": "./snippets/js-style-double.code-snippets"
+      },
+      {
+        "language": "csharp",
+        "path": "./snippets/js-style-single.code-snippets"
+      },
+      {
+        "language": "csharp",
+        "path": "./snippets/js-style-double.code-snippets"
+      },
+      {
+        "language": "java",
+        "path": "./snippets/js-style-single.code-snippets"
+      },
+      {
+        "language": "java",
+        "path": "./snippets/js-style-double.code-snippets"
+      },
+      {
+        "language": "dart",
+        "path": "./snippets/js-style-single.code-snippets"
+      },
+      {
+        "language": "dart",
+        "path": "./snippets/js-style-double.code-snippets"
+      },
+      {
+        "language": "go",
+        "path": "./snippets/js-style-single.code-snippets"
+      },
+      {
+        "language": "go",
+        "path": "./snippets/js-style-double.code-snippets"
+      },
+      {
+        "language": "groovy",
+        "path": "./snippets/js-style-single.code-snippets"
+      },
+      {
+        "language": "groovy",
+        "path": "./snippets/js-style-double.code-snippets"
+      },
+      {
+        "language": "jsoc",
+        "path": "./snippets/js-style-single.code-snippets"
+      },
+      {
+        "language": "jsoc",
+        "path": "./snippets/js-style-double.code-snippets"
+      },
+      {
+        "language": "nested",
+        "path": "./snippets/js-style-single.code-snippets"
+      },
+      {
+        "language": "nested",
+        "path": "./snippets/js-style-double.code-snippets"
+      },
+      {
+        "language": "objective-c",
+        "path": "./snippets/js-style-single.code-snippets"
+      },
+      {
+        "language": "objective-c",
+        "path": "./snippets/js-style-double.code-snippets"
+      },
+      {
+        "language": "objective-cpp",
+        "path": "./snippets/js-style-single.code-snippets"
+      },
+      {
+        "language": "objective-cpp",
+        "path": "./snippets/js-style-double.code-snippets"
+      },
+      {
+        "language": "php",
+        "path": "./snippets/js-style-single.code-snippets"
+      },
+      {
+        "language": "php",
+        "path": "./snippets/js-style-double.code-snippets"
+      },
+      {
+        "language": "rust",
+        "path": "./snippets/js-style-single.code-snippets"
+      },
+      {
+        "language": "rust",
+        "path": "./snippets/js-style-double.code-snippets"
+      },
+      {
+        "language": "sql",
+        "path": "./snippets/js-style-single.code-snippets"
+      },
+      {
+        "language": "sql",
+        "path": "./snippets/js-style-double.code-snippets"
+      },
+      {
+        "language": "swift",
+        "path": "./snippets/js-style-single.code-snippets"
+      },
+      {
+        "language": "swift",
+        "path": "./snippets/js-style-double.code-snippets"
+      },
+      {
+        "language": "python",
+        "path": "./snippets/python-style-single.code-snippets"
+      },
+      {
+        "language": "python",
+        "path": "./snippets/python-style-double.code-snippets"
+      },
+      {
+        "language": "dockerfile",
+        "path": "./snippets/python-style-double.code-snippets"
+      },
+      {
+        "language": "dockerfile",
+        "path": "./snippets/python-style-single.code-snippets"
+      },
+      {
+        "language": "coffeescript",
+        "path": "./snippets/python-style-single.code-snippets"
+      },
+      {
+        "language": "coffeescript",
+        "path": "./snippets/python-style-double.code-snippets"
+      },
+      {
+        "language": "nim",
+        "path": "./snippets/python-style-single.code-snippets"
+      },
+      {
+        "language": "nim",
+        "path": "./snippets/python-style-double.code-snippets"
+      },
+      {
+        "language": "perl",
+        "path": "./snippets/python-style-single.code-snippets"
+      },
+      {
+        "language": "perl",
+        "path": "./snippets/python-style-double.code-snippets"
+      },
+      {
+        "language": "powershell",
+        "path": "./snippets/python-style-single.code-snippets"
+      },
+      {
+        "language": "powershell",
+        "path": "./snippets/python-style-double.code-snippets"
+      },
+      {
+        "language": "shellscript",
+        "path": "./snippets/python-style-single.code-snippets"
+      },
+      {
+        "language": "shellscript",
+        "path": "./snippets/python-style-double.code-snippets"
+      },
+      {
+        "language": "puppet",
+        "path": "./snippets/python-style-single.code-snippets"
+      },
+      {
+        "language": "puppet",
+        "path": "./snippets/python-style-double.code-snippets"
+      },
+      {
+        "language": "tcl",
+        "path": "./snippets/python-style-single.code-snippets"
+      },
+      {
+        "language": "tcl",
+        "path": "./snippets/python-style-double.code-snippets"
+      },
+      {
+        "language": "yaml",
+        "path": "./snippets/python-style-single.code-snippets"
+      },
+      {
+        "language": "yaml",
+        "path": "./snippets/python-style-double.code-snippets"
+      },
+      {
+        "language": "r",
+        "path": "./snippets/python-style-single.code-snippets"
+      },
+      {
+        "language": "r",
+        "path": "./snippets/python-style-double.code-snippets"
+      },
+      {
+        "language": "ruby",
+        "path": "./snippets/python-style-single.code-snippets"
+      },
+      {
+        "language": "ruby",
+        "path": "./snippets/python-style-double.code-snippets"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/html-style-single.code-snippets"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/html-style-double.code-snippets"
+      },
+      {
+        "language": "xml",
+        "path": "./snippets/html-style-single.code-snippets"
+      },
+      {
+        "language": "xml",
+        "path": "./snippets/html-style-double.code-snippets"
+      },
+      {
+        "language": "xsl",
+        "path": "./snippets/html-style-single.code-snippets"
+      },
+      {
+        "language": "xsl",
+        "path": "./snippets/html-style-double.code-snippets"
+      },
+      {
+        "language": "markdown",
+        "path": "./snippets/html-style-single.code-snippets"
+      },
+      {
+        "language": "markdown",
+        "path": "./snippets/html-style-double.code-snippets"
+      },
+      {
+        "language": "coldfusion",
+        "path": "./snippets/html-style-single.code-snippets"
+      },
+      {
+        "language": "coldfusion",
+        "path": "./snippets/html-style-double.code-snippets"
+      },
+      {
+        "language": "vue-html",
+        "path": "./snippets/html-style-single.code-snippets"
+      },
+      {
+        "language": "vue-html",
+        "path": "./snippets/html-style-double.code-snippets"
+      }
+    ]
+  }
 }
