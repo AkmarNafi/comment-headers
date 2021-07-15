@@ -86,11 +86,27 @@
                     "path": "./snippets/js-style-double.code-snippets"
                },
                {
+                    "language": "javascriptreact",
+                    "path": "./snippets/js-style-single.code-snippets"
+               },
+               {
+                    "language": "javascriptreact",
+                    "path": "./snippets/js-style-double.code-snippets"
+               },
+               {
                     "language": "typescript",
                     "path": "./snippets/js-style-single.code-snippets"
                },
                {
                     "language": "typescript",
+                    "path": "./snippets/js-style-double.code-snippets"
+               },
+               {
+                    "language": "typescriptreact",
+                    "path": "./snippets/js-style-single.code-snippets"
+               },
+               {
+                    "language": "typescriptreact",
                     "path": "./snippets/js-style-double.code-snippets"
                },
                {
