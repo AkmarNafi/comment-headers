@@ -372,6 +372,10 @@
                {
                     "language": "vue-html",
                     "path": "./snippets/html-style-double.code-snippets"
+               },
+                 {
+                    "language": "terraform",
+                    "path": "./snippets/html-style-double.code-snippets"
                }
           ]
      }
