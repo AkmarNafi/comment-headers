@@ -47,6 +47,13 @@
                {
                     "language": "javascript",
                     "path": "./snippets/js-style-double.code-snippets"
+               },               {
+                    "language": "javascriptreact",
+                    "path": "./snippets/js-style-single.code-snippets"
+               },
+               {
+                    "language": "javascriptreact",
+                    "path": "./snippets/js-style-double.code-snippets"
                },
                {
                     "language": "typescript",
