@@ -3,7 +3,7 @@
      "displayName": "Comment headers",
      "description": "comment headers snippets  ",
      "publisher": "akmarnafi",
-     "version": "1.11.0",
+     "version": "1.12.0",
      "engines": {
           "vscode": "^1.49.0"
      },
@@ -86,11 +86,27 @@
                     "path": "./snippets/js-style-double.code-snippets"
                },
                {
+                    "language": "javascriptreact",
+                    "path": "./snippets/js-style-single.code-snippets"
+               },
+               {
+                    "language": "javascriptreact",
+                    "path": "./snippets/js-style-double.code-snippets"
+               },
+               {
                     "language": "typescript",
                     "path": "./snippets/js-style-single.code-snippets"
                },
                {
                     "language": "typescript",
+                    "path": "./snippets/js-style-double.code-snippets"
+               },
+               {
+                    "language": "typescriptreact",
+                    "path": "./snippets/js-style-single.code-snippets"
+               },
+               {
+                    "language": "typescriptreact",
                     "path": "./snippets/js-style-double.code-snippets"
                },
                {
@@ -355,6 +371,10 @@
                },
                {
                     "language": "vue-html",
+                    "path": "./snippets/html-style-double.code-snippets"
+               },
+                 {
+                    "language": "terraform",
                     "path": "./snippets/html-style-double.code-snippets"
                }
           ]
