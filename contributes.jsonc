@@ -57,6 +57,14 @@
                     "path": "./snippets/js-style-double.code-snippets"
                },
                {
+                    "language": "typescriptreact",
+                    "path": "./snippets/js-style-single.code-snippets"
+               },
+               {
+                    "language": "typescriptreact",
+                    "path": "./snippets/js-style-double.code-snippets"
+               },
+               {
                     "language": "c",
                     "path": "./snippets/js-style-single.code-snippets"
                },
