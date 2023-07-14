@@ -373,6 +373,22 @@
                     "language": "vue-html",
                     "path": "./snippets/html-style-double.code-snippets"
                },
+               {
+                  "language": "systemverilog",
+                  "path": "./snippets/js-style-single.code-snippets"
+               },
+               {
+                  "language": "systemverilog",
+                  "path": "./snippets/js-style-double.code-snippets"
+               },
+               {
+                    "language": "verilog",
+                    "path": "./snippets/js-style-single.code-snippets"
+               },
+               {
+                    "language": "verilog",
+                    "path": "./snippets/js-style-double.code-snippets"
+               },
                  {
                     "language": "terraform",
                     "path": "./snippets/html-style-double.code-snippets"
