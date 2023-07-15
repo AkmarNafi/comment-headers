@@ -41,7 +41,7 @@ COMMENT HEADERS
 <br>
 
 
-## How to use
+## How to use 
 
 Type a trigger keyword like `//header-lg` and press enter.<br>
 Find the different triggers in the types section.
