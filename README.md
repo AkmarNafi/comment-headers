@@ -196,7 +196,10 @@ Note: Inline(6) and Multiline (7) comments do not have size option.
 -    Java
 -    Javascript
 -    JOSC
+-    Kanata
+-    Kmonad
 -    LESS
+-    Lisp
 -    Markdown\*
 -    Nested
 -    Nim
