@@ -346,6 +346,30 @@
                {
                     "language": "vue-html",
                     "path": "./snippets/html-style-double.code-snippets"
+               },
+              //------------------------------------------lisp style-------------------------------------------
+               {
+                    "language": "lisp",
+                    "path": "./snippets/lisp-style-single.code-snippets"
+               },
+               {
+                    "language": "lisp",
+                    "path": "./snippets/lisp-style-double.code-snippets"
+               },
+               {
+                    "language": "kanata",
+                    "path": "./snippets/lisp-style-single.code-snippets"
+               },
+               {
+                    "language": "kanata",
+                    "path": "./snippets/lisp-style-double.code-snippets"
+               },
+               {
+                    "language": "kmonad",
+                    "path": "./snippets/lisp-style-single.code-snippets"
+               },
+               {
+                    "language": "kmonad",
+                    "path": "./snippets/lisp-style-double.code-snippets"
                }
-          
             ]}
