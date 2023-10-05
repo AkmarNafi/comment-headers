@@ -3,7 +3,7 @@
      "displayName": "Comment headers",
      "description": "comment headers snippets  ",
      "publisher": "akmarnafi",
-     "version": "1.12.0",
+     "version": "1.12.1",
      "engines": {
           "vscode": "^1.49.0"
      },
@@ -26,7 +26,10 @@
           "javascript",
           "c",
           "cpp",
-          "java"
+          "java",
+          "lisp",
+          "kmonad",
+          "kanata"
      ],
      "author": "Akmar nafi <akmar.nafi@gmail.com> ",
      "extensionDependencies": [
@@ -373,10 +376,34 @@
                     "language": "vue-html",
                     "path": "./snippets/html-style-double.code-snippets"
                },
-                 {
+               {
                     "language": "terraform",
                     "path": "./snippets/html-style-double.code-snippets"
-               }
+               },
+               {
+                    "language": "lisp",
+                    "path": "./snippets/lisp-style-single.code-snippets"
+               },
+               {
+                    "language": "lisp",
+                    "path": "./snippets/lisp-style-double.code-snippets"
+               },
+               {
+                    "language": "kanata",
+                    "path": "./snippets/lisp-style-single.code-snippets"
+               },
+               {
+                    "language": "kanata",
+                    "path": "./snippets/lisp-style-double.code-snippets"
+               },
+               {
+                    "language": "kmonad",
+                    "path": "./snippets/lisp-style-single.code-snippets"
+               },
+               {
+                    "language": "kmonad",
+                    "path": "./snippets/lisp-style-double.code-snippets"
+               }               
           ]
      }
 }
